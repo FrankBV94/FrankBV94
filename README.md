@@ -16,7 +16,7 @@
 <p align="left"> 
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
 </a> 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -44,45 +44,57 @@
 </a>
 <!-- ReactJS -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> 
 </a> 
 <!-- NextJS -->
 <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
 </a> -->
 <!-- React Native -->
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a>
+</a> -->
+<!-- Expo -->
+<!-- <a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/> 
+</a> -->
 <!-- NodeJS -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 <!-- Express -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
 </a>
 <!-- NestJS -->
 <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> 
 </a> -->
 <!-- DJango -->
-<!-- <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
 </a> -->
 <!-- Laravel -->
-<!-- <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
+<!-- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
 </a> -->
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 <!-- MySQL -->
-<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
+</a>
 <!-- Supabase -->
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
 </a>
+<!-- Git -->
+<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="supabase" width="40" height="40"/> 
+</a> -->
+<!-- Docker -->
+<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="supabase" width="40" height="40"/> 
+</a> -->
 </p>
