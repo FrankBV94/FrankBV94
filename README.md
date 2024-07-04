@@ -35,9 +35,9 @@
 
 ### Frontend
 <div style="display: flex;gap: 16px">
-  <img style="width: 50px; height: 50px" src="./assets/astro.svg" />
-  <img style="width: 50px; height: 50px" src="./assets/react.svg" />
-  <img style="width: 50px; height: 50px" src="./assets/expo.svg" />
+  <img style="width: 40px; height: 40px" src="./assets/astro.svg" alt="Astro icon"/>
+  <img style="width: 40px; height: 40px" src="./assets/react.svg" alt="React icon"/>
+  <img style="width: 40px; height: 40px" src="./assets/expo.svg" alt="Expo icon"/>
 </div>
 
 ### Backend
