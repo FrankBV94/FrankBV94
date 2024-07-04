@@ -2,7 +2,7 @@
 <a href="https://t.me/frank_botelle" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
 	</a>
-	<a href="www.linkedin.com/in/frank-botelle-valdés-346893170/" target="_blank">
+	<a href="https://www.linkedin.com/in/frank-botelle-valdés-346893170/" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/linkedin/4c5861" />
 	</a>
         <a href="https://frankbotelle.github.io" target="_blank">
@@ -40,6 +40,6 @@
 
 ## 🔗 Contact with me
 
-- Contact with me on <a href="mailto:frankbotelle@gmail.com">Email</a>
+- Check my Linkedin [profile](https://www.linkedin.com/in/frank-botelle-valdés-346893170/).
+- Write me an <a href="mailto:frankbotelle@gmail.com">Email</a>.
 - You can visit my [Website](https://cutt.ly/Ahmed_Hossam_Website).
-  <br>
