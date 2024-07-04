@@ -32,7 +32,7 @@
 
 ### Frontend
 
-- TailwindCSS | Astro | ReactJS | NextJS | Expo
+- TailwindCSS | Astro | ReactJS | NextJS | ReactNative
 
 ### Backend
 
