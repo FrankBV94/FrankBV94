@@ -34,7 +34,7 @@
 </p>
 
 ### Frontend
-<div style="display: flex;gap: 16px">
+<div style="display: flex;gap: 60px">
   <img style="width: 40px; height: 40px" src="./assets/astro.svg" alt="Astro icon"/>
   <img style="width: 40px; height: 40px" src="./assets/react.svg" alt="React icon"/>
   <img style="width: 40px; height: 40px" src="./assets/expo.svg" alt="Expo icon"/>
@@ -42,7 +42,6 @@
 
 ### Backend
 
-<p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
