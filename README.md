@@ -1,6 +1,6 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<h1>
- I'm Frank Botelle  Valdés
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<h1>, I'm Frank Botelle  Valdés
 <a href="https://t.me/frank_botelle" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
 	</a>
