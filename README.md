@@ -36,7 +36,7 @@
 ### Frontend
 
 <div style="display: flex">
-  <img style="width: 40px; height: 40px; margin-rigth: 60px" src="./assets/astro.svg" alt="Astro icon"/>
+  <img style="width: 40px; height: 40px; margin-right: 60px" src="./assets/astro.svg" alt="Astro icon"/>
   <img style="width: 40px; height: 40px" src="./assets/react.svg" alt="React icon"/>
   <img style="width: 40px; height: 40px" src="./assets/expo.svg" alt="Expo icon"/>
 </div>
