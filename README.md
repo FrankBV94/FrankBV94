@@ -21,7 +21,7 @@
 
 - 🎓 I am a graduate of the University of Computer Sciences in Havana.
 - ❤️ I am passionate about Web technologies.
-- 💡 Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 Exploring new technologies and developing software solutions and quick hacks.
 - 🤝🏻 Open for project collaboration.
 
 ## 🛠️ My Skills
