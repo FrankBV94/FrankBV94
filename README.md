@@ -1,6 +1,10 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi , I'm Frank Botelle  Valdés</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu=%0ea5e9&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;Frontend+Developer;Mobile+Developer;Always+learning+new+things"></a>
+<h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+Hi , I'm Frank Botelle  Valdés
+</h1>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu=%0ea5e9&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Page!;I'm+a+Software+Engineer;Frontend+Developer;Mobile+Developer;Always+learning+new+things"></a>
 </p>
 
 ## 😀 About me
@@ -41,21 +45,4 @@
 
 ### Backend
 
-&emsp;
-<a href="https://www.w3.org/html/" target="_blank">
-<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-</a>  
- &emsp;
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-</a>
-&emsp;
-<a href="https://www.python.org" target="_blank">
-<img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-</a>
-&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-</a>
-
-</p>
+- NodeJS | Express | NestJS | DJango | Laravel |PostgreSQL | MySQL | MongoDB
