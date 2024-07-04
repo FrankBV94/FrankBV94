@@ -29,20 +29,18 @@ Hi , I'm Frank Botelle  Valdés
 
 ### Languages
 
-<p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py" />
-    </a>
-</p>
+- HTML | CSS | JavaScript | TypeScript | Python | PHP
 
 ### Frontend
 
-<div style="display: flex">
-  <img style="width: 45px; height: 45px" src="./assets/astro.svg" alt="Astro icon"/>
-  <img style="width: 45px; height: 45px" src="./assets/react.svg" alt="React icon"/>
-  <img style="width: 45px; height: 45px" src="./assets/expo.svg" alt="Expo icon"/>
-</div>
+- TailwindCSS | Astro | ReactJS | NextJS | Expo
 
 ### Backend
 
-- NodeJS | Express | NestJS | DJango | Laravel |PostgreSQL | MySQL | MongoDB
+- NodeJS | Express | NestJS | DJango | Laravel |PostgreSQL | MySQL | MongoDB | Supabase
+
+## 🔗 Contact with me
+
+- Contact with me on <a href="mailto:frankbotelle@gmail.com">Email</a>
+- You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+  <br>
