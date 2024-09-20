@@ -2,7 +2,7 @@
 <a href="https://t.me/frank_botelle" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
 	</a>
-	<a href="https://www.linkedin.com/in/frank-botelle-valdés-346893170/" target="_blank">
+	<a href="https://www.linkedin.com/in/frank-botelle-valdés/" target="_blank">
 		<img width="20px" src="https://simpleicons.now.sh/linkedin/4c5861" />
 	</a>
         <a href="https://frankbotelle.github.io" target="_blank">
